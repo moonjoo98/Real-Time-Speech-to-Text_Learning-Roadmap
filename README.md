@@ -4,9 +4,9 @@
 #### Learning Roadmap Link : https://mz-moonzoo.tistory.com/79
 -----
 ### 1. 컨볼루션 신경망 (CNN)
-- CNN의 기본 구조와 원리
-- 필터와 풀링 개념 : 
-- 음성 데이터 특징 추출
+- CNN의 기본 구조와 원리 : https://mz-moonzoo.tistory.com/63
+- 필터와 풀링 개념 : https://mz-moonzoo.tistory.com/63
+- 음성 데이터 특징 추출 (1D Convolution,2D Convolution) : https://mz-moonzoo.tistory.com/64
 
 ### 2. 시퀀스 모델링
 - RNN (Recurrent Neural Network)
