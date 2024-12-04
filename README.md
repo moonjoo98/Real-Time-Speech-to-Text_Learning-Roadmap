@@ -1,10 +1,11 @@
 # Real-Time Speech-to-Text (STT) Learning Roadmap
 
 #### 실시간 시간 STT를 구현하기 위해 필요한 여러 선행 연구와 개념들을 경험 기반으로 학습 로드맵을 작성해봤습니다.<br/>시간 나는대로 틈틈히 작성하면서 로드맵 우측에 블로그 링크를 추가할 예정입니다.
+#### Learning Roadmap Link : https://mz-moonzoo.tistory.com/79
 
 ### 1. 컨볼루션 신경망 (CNN)
 - CNN의 기본 구조와 원리
-- 필터와 풀링 개념
+- 필터와 풀링 개념 : 
 - 음성 데이터 특징 추출
 
 ### 2. 시퀀스 모델링
