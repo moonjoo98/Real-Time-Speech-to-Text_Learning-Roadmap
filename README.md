@@ -27,7 +27,7 @@
 - 음성 신호 처리 기본: https://mz-moonzoo.tistory.com/62, https://mz-moonzoo.tistory.com/66
 - 스펙트로그램과 멜 스펙트로그램: https://mz-moonzoo.tistory.com/62
 - μ-law decompression / μ-law compression
-- Bit Conversion, Resampling : https://mz-moonzoo.tistory.com/67, ,https://mz-moonzoo.tistory.com/68, https://mz-moonzoo.tistory.com/75
+- Bit Conversion, Resampling : https://mz-moonzoo.tistory.com/67, https://mz-moonzoo.tistory.com/68, https://mz-moonzoo.tistory.com/75
 - VAD (Voice activity detection)
 
 ### 6. 실시간 음성 인식 시스템
