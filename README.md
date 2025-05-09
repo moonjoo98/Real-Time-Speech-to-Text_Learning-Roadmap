@@ -9,7 +9,7 @@
 - 음성 데이터 특징 추출 (1D Convolution, 2D Convolution) : https://mz-moonzoo.tistory.com/64
 
 ### 2. 시퀀스 모델링
-- RNN (Recurrent Neural Network) : https://mz-moonzoo.tistory.com/80
+- RNN (Recurrent Neural Network) : (이론) https://mz-moonzoo.tistory.com/80 / (Numpy 구현) https://mz-moonzoo.tistory.com/102
 - LSTM (Long Short-Term Memory)
 - GRU (Gated Recurrent Unit)
 
