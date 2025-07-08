@@ -10,18 +10,18 @@
 
 ### 2. 시퀀스 모델링
 - RNN (Recurrent Neural Network) : (이론) https://mz-moonzoo.tistory.com/80 / (Numpy 구현) https://mz-moonzoo.tistory.com/102 / (Tensorflow/Keras RNN 구현) https://mz-moonzoo.tistory.com/103
-- LSTM (Long Short-Term Memory)
-- GRU (Gated Recurrent Unit)
+- LSTM (Long Short-Term Memory) : (이론) https://mz-moonzoo.tistory.com/105
+- GRU (Gated Recurrent Unit) : (이론) https://mz-moonzoo.tistory.com/105
 
 ### 3. 어텐션 메커니즘
-- 기본 어텐션의 개념과 작동 원리
-- 셀프 어텐션
+- 기본 어텐션의 개념과 작동 원리 : (이론) https://mz-moonzoo.tistory.com/106
+- 셀프 어텐션 : (이론) https://mz-moonzoo.tistory.com/106
 
 ### 4. 트랜스포머 아키텍처
-- Attention is All you need 논문 리뷰 및 구현
-- 인코더-디코더 구조
-- 멀티헤드 어텐션
-- 포지셔널 인코딩
+- Attention is All you need 논문 리뷰 및 구현 : (이론) https://mz-moonzoo.tistory.com/106
+- 인코더-디코더 구조 : (이론) https://mz-moonzoo.tistory.com/106
+- 멀티헤드 어텐션 : (이론) https://mz-moonzoo.tistory.com/106
+- 포지셔널 인코딩 : (이론) https://mz-moonzoo.tistory.com/106
 
 ### 5. 음성 신호 처리
 - 음성 신호 처리 기본: https://mz-moonzoo.tistory.com/62, https://mz-moonzoo.tistory.com/66
