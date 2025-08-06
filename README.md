@@ -18,10 +18,10 @@
 - 셀프 어텐션 : (이론) https://mz-moonzoo.tistory.com/106
 
 ### 4. 트랜스포머 아키텍처
-- Attention is All you need 논문 리뷰 및 구현 : (이론) https://mz-moonzoo.tistory.com/106
-- 인코더-디코더 구조 : (이론) https://mz-moonzoo.tistory.com/106
-- 멀티헤드 어텐션 : (이론) https://mz-moonzoo.tistory.com/106
-- 포지셔널 인코딩 : (이론) https://mz-moonzoo.tistory.com/106
+- Attention is All you need 논문 리뷰 및 구현 : (이론) https://mz-moonzoo.tistory.com/106 (코드) https://mz-moonzoo.tistory.com/107
+- 인코더-디코더 구조 : (이론) https://mz-moonzoo.tistory.com/106 (코드) https://mz-moonzoo.tistory.com/107
+- 멀티헤드 어텐션 : (이론) https://mz-moonzoo.tistory.com/106 (코드) https://mz-moonzoo.tistory.com/107
+- 포지셔널 인코딩 : (이론) https://mz-moonzoo.tistory.com/106 (코드) https://mz-moonzoo.tistory.com/107
 
 ### 5. 음성 신호 처리
 - 음성 신호 처리 기본: https://mz-moonzoo.tistory.com/62, https://mz-moonzoo.tistory.com/66
